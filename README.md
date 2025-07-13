@@ -1,0 +1,1 @@
+This is a fully responsive clone of the Usability website, built using HTML, CSS, and JavaScript. The project replicates the layout and functionality of the original site, focusing on clean design and mobile-first responsiveness.
